@@ -83,12 +83,14 @@ In this project, I will practice what I learnt so far on Git and Github. this in
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Features
-Not specified.
+
+1. Outputs messages in the Terminal emulator
 
 <!-- Paragraph 4: -->
 ### Built With
 
 * [Markdown](https://www.markdownguide.org/)
+* [Bash](https://www.gnu.org/software/bash/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -118,8 +120,10 @@ Not specified.
 
 Here is a curated, chronologically ordered list of changes for each version of this project. 
 
-* 0.0.1 - 2019-02-15
-    * UNRELEASED: None.
+* 0.1.0 - 2022-05-11
+    * CHANGED: Bash scripts to output different messages.
+* 0.0.1 - 2022-05-11
+    * ADDED: Simple BASH Scripts to output in the terminal emulator
     * Work in progress
 
 <p align="right">(<a href="#top">back to top</a>)</p>
